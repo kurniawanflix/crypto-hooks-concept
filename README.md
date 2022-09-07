@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Manage Crypto
+![Screenshot (377)](https://user-images.githubusercontent.com/77148705/188841691-8d96097b-17c0-4254-b6d2-2053cc19b9f3.png)
+
+Add Crypto
+![Screenshot (378)](https://user-images.githubusercontent.com/77148705/188841757-eb596afd-5ded-48d3-bc1e-115e560c79a8.png)
+
+Edit Crypto
+![Screenshot (379)](https://user-images.githubusercontent.com/77148705/188841806-6a4e7e87-b6ea-45f1-ab82-dd394685345c.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
